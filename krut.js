@@ -11,5 +11,5 @@ function myFunction3() {
 }
 
 function myFunction4() {
-  alert("вы нажали очень на пробную кнопку")
+  alert("вы нажали на пробную кнопку")
 }
